@@ -1,0 +1,28 @@
+/* header h1 a{
+    color:green
+} */
+ header {
+    border-bottom: 1px solid #999;
+    margin-bottom: 2rem;
+    display: felx;
+ }
+
+ body {
+    font-family: 'Noto Sans JP',sans-serif;
+    font-size: 18px;
+ }
+ header h1 a{
+    color: forestgreen;
+    text-decoration: navajowhite;
+ }
+ 
+
+.nav-left {
+    margin-right: auto;
+}
+.nav-right {
+    display: flex;
+}
+.post-entry {
+    margin-bottom: 2rem;
+}
